@@ -1,0 +1,1 @@
+This is an Ai tool that translates Arabic Friday Jummah sermons to English in real-time.
